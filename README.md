@@ -1,4 +1,4 @@
-# [LBTT-Student-Performance-Prediction-Code](https://github.com/CCNULyz/LBTT-Student-Performance-Prediction-Code)
+# [Student-Performance-Prediction-Code](https://github.com/CCNULyz/Student-Performance-Prediction-Code)
 
 This repo is the official implementation for the paper: [LBTT: Fusing learning behavior time window and type information for early prediction of student learning performance](https://link.springer.com/article/10.1007/s10639-025-13628-z).
 
